@@ -18,5 +18,3 @@
 <a href="https://www.linkedin.com/in/facundo-sanchez-19a40a2a8/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="facundo-sanchez-19a40a2a8" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=facuS136&layout=compact" alt="facuS136" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=facuS136&show_icons=true" alt="facuS136" /></p>
