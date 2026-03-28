@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Facundo Sanchez 🐱‍👤</h1>
-<h3 align="center">A happy Computer Science student 🖥👨‍💻📖</h3>
+<h3 align="center">A Computer Science student 🖥👨‍💻📖</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=facuS136" alt="facuS136" /> </p>
 
-- 🏫 4th year at the Facultad de Ciencias Exactas y Naturales de la Universidad de Buenos Aires (FCEN/UBA)
+- 🏫 5th year at the Facultad de Ciencias Exactas y Naturales de la Universidad de Buenos Aires (FCEN/UBA)
 
-- 🌱 I’m currently using **C#, Python, C++, and SQL**
+- 🌱 I’m currently using **C++, C#, Python, and SQL**
+
+- Fan of video games and video game development 🎮 🕹️ 👾 🖥️
 
 - 👨‍💻 All of my projects are available at [https://github.com/facuS136/](https://github.com/facuS136/)
 
